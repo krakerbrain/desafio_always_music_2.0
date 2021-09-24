@@ -50,4 +50,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ## Autor ✒️
 
-- **Mario Montenegro** - [krakerbrain](https://github.com/krakerbrain)
+- **Mario Montenegro**
+- **Maximiliano Paredes**
+- **Eduardo Montenegro**
+- **Eric Leiva**
