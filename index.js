@@ -65,7 +65,7 @@ if (consulta == "rut") {
       const SQLQuery = {
         //7. Obtener el registro de los estudiantes registrados en formato de arreglos.
         rowMode: "array",
-        name: "consulta-por-rut",
+        name: "consulta-rut",
         text: "SELECT * FROM estudiante WHERE rut = $1",
         values: [rut],
       };
