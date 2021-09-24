@@ -27,6 +27,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 - $ git clone https://github.com/krakerbrain/desafio_always_music_2.0
 - $ cd ../path/to/the/file
 - $ npm install
+- $ npm i pg
 - $ npm index.js <argumentos necesarios descritos arriba>
 
 ### Requerimientos
