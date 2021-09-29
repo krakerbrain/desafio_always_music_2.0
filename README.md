@@ -16,7 +16,7 @@ Las líneas de comandos que deben escribirse son las siguientes:
 
 - NUEVO USUARIO node index.js nuevo <nombre_usuario> <rut> <curso> <nivel>
 - CONSULTA POR RUT node index.js rut <rut>
-- CONSULTAR TODOS LOS USUARIOS node index.js consultas
+- CONSULTAR TODOS LOS USUARIOS node index.js consulta
 - EDITAR USUARIO node index.js editar <nombre_usuario> <rut> <curso> <nivel>
 - ELIMINAR USUARIO node index.js eliminar <rut>
 
